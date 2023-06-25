@@ -1,0 +1,29 @@
+https://www.youtube.com/watch?v=S6VE2lsAGo0
+https://github.com/desphixs/Node.Js-Authentication-System
+
+//user: nodeJsApp
+//Password db: tMnApa144weVCF3b
+
+npm init // initialize the project
+
+npm i express ejs // install dependencies
+
+npm i --save-dev nodemon dotenv // install dev dependencies
+
+npm i bcrypt
+
+npm i passport passport-local express-session express-flash
+
+npm i method-override
+
+npm install mongdb
+
+npm install dotenv
+
+npm install @fortawesome/fontawesome-free
+
+
+
+https://www.youtube.com/watch?v=npMYwSlpJsA
+
+https://github.com/fazt/nodejs-notes-app/tree/master
